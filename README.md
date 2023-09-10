@@ -1,0 +1,3 @@
+# Job Portal
+
+Job Portal is a MERN Stack-based web app that helps in streamlining the flow of the job application process. It allows users to select their roles (applicant or recruiter) and create an account. In this web app, login sessions are persistent, and REST APIs are securely protected by JWT token verification. After logging in, a recruiter can create, delete, or update jobs, shortlist, accept, or reject applications, view resumes, and edit profiles. And an applicant can view jobs, perform fuzzy searches with various filters, apply for jobs with an SOP, view applications, upload a profile picture, upload a resume, and edit their profile. Hence, it is an all-in-one solution for a job application system.
